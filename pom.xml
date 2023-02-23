@@ -4,7 +4,7 @@
 
   <modelVersion>4.0.0</modelVersion>
   <groupId>fr.iutblagnac</groupId>
-  <artifactId>tp_qualite</artifactId>
+  <artifactId>tp_qualite_tp05_devobj</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
     <properties>
